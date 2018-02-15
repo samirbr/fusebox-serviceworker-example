@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "webworker",
+      "es2017"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist/",
+    "rootDir": "src",
+    "sourceMap": true,
+    "sourceRoot": "src",
+    "target": "es5"
+  }
+}
